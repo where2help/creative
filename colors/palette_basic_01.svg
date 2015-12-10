@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,0.0987292,0)">
+        <rect x="44" y="44" width="188" height="631" style="fill:rgb(23,37,44);"/>
+    </g>
+    <rect x="232" y="44" width="187" height="631" style="fill:rgb(31,46,56);"/>
+    <rect x="419" y="44" width="186" height="631" style="fill:rgb(116,149,169);"/>
+    <rect x="605" y="44" width="187" height="631" style="fill:rgb(0,198,210);"/>
+    <rect x="792" y="44" width="188" height="631" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,44,725.898)">
+        <text x="0px" y="0px" style="font-family:Arial;font-size:12px;fill:black;">Coolors Exported Palette - coolors.co/17252c-1f2e38-7495a9-00c6d2-f<tspan x="376.682px " y="0px ">f</tspan>ffff</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-23.4491,0)">
+        <text x="86.071px" y="619.128px" style="font-family:Arial Rounded MT Bold;font-size:36px;fill:rgb(166,166,166);">#<tspan x="105.574px 126.606px 147.639px 168.672px 189.704px 210.737px " y="619.128px 619.128px 619.128px 619.128px 619.128px 619.128px ">17252C</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,163.952,0)">
+        <text x="86.071px" y="619.128px" style="font-family:Arial Rounded MT Bold;font-size:36px;fill:rgb(166,166,166);">#<tspan x="105.574px 126.606px 147.991px 169.023px 192.675px 213.707px " y="619.128px 619.128px 619.128px 619.128px 619.128px 619.128px ">1F2E38</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,350.452,0)">
+        <text x="86.071px" y="619.128px" style="font-family:Arial Rounded MT Bold;font-size:36px;fill:rgb(166,166,166);">#<tspan x="105.574px 126.606px 147.639px 168.672px 189.704px 215.237px " y="619.128px 619.128px 619.128px 619.128px 619.128px 619.128px ">7495A9</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,536.952,0)">
+        <text x="86.071px" y="619.128px" style="font-family:Arial Rounded MT Bold;font-size:36px;fill:rgb(166,166,166);">#<tspan x="105.574px 126.606px 147.639px 173.927px 194.96px 221.248px " y="619.128px 619.128px 619.128px 619.128px 619.128px 619.128px ">00C6D2</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,724.452,0)">
+        <text x="86.071px" y="619.128px" style="font-family:Arial Rounded MT Bold;font-size:36px;fill:rgb(166,166,166);">#<tspan x="105.574px 126.958px 148.342px 169.726px 191.11px 212.494px " y="619.128px 619.128px 619.128px 619.128px 619.128px 619.128px ">FFFFFF</tspan></text>
+    </g>
+</svg>
