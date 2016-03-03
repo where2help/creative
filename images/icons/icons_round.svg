@@ -6,9 +6,9 @@
 <g id="interpreter" display="none">
 	<g display="inline">
 		<circle fill="#17252C" cx="100" cy="100" r="100"/>
-		<path fill="#FFFFFF" stroke="#00C6D2" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M126,62H76
-			c-13.807,0-27,10.193-27,24v30c0,13.807,13.193,26,27,26h29.811L125,158.643v-17.668c14-0.525,24-11.503,24-24.975V86
-			C149,72.193,139.807,62,126,62z"/>
+		<path fill="#FFFFFF" stroke="#00C6D2" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M126,52H76
+			c-13.807,0-27,9.872-27,23.679v30C49,119.486,62.193,132,76,132h29.811L125,148.321v-17.668c14-0.525,24-11.503,24-24.975v-30
+			C149,61.872,139.807,52,126,52z"/>
 	</g>
 </g>
 <g id="medical" display="none">
